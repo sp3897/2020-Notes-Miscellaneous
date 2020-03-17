@@ -1,6 +1,7 @@
 ## Use this config file to setup debug on your vs code
 
-I know that its but do not want to google it everytime :-)
+I know that its but do not want to google it everytime
+Note : when you want to debug you need to be on the same file to start debugging on the VS Code editor
 
 ```
 {
