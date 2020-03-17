@@ -1,6 +1,7 @@
 ## Use this config file to setup debug on your vs code
 
 I know that its but do not want to google it everytime
+
 Note : when you want to debug you need to be on the same file to start debugging on the VS Code editor
 
 ```
@@ -18,7 +19,7 @@ Note : when you want to debug you need to be on the same file to start debugging
             "program": "${workspaceFolder}/src/main/javascript/index.js"
         },
         {
-           "name": "Debug spec.js",
+           "name": "DebugConfig",
            "type": "node",
            "request": "launch",
            "program": "${workspaceFolder}/node_modules/jasmine/bin/jasmine.js",
